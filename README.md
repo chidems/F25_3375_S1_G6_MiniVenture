@@ -1,4 +1,4 @@
-# F25_3375_S1_G0_MiniVenture
+# F25_3375_S1_G6_MiniVenture
 
 ## CSIS 3375 UX Design in Web and Mobile App
 
