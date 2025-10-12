@@ -8,6 +8,6 @@
 | Sep 30, 2025       | 0.5      | App concept  |
 | Oct 2, 2025        | 1        | Brainstorm on app features |
 | Oct 3, 2025        | 2        | Research on competiior and inspiration  |
-| Oct 4, 2025        | 4        | Compose the draft for proposal     |
-
+| Oct 4, 2025        | 4        | Draft for proposal     |
+| Oct 11, 2025       | 2        | Draft for survey
 
