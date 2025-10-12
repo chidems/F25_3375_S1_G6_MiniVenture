@@ -8,3 +8,4 @@
 | Sep 30, 2025       | 3        | App concept and initial repo setup  |
 | Oct 2, 2025        | 1        | Brainstorm on app features |
 | Oct 4, 2025        | 1        | Proposal review  |
+|Oct 10, 2025        | 3        | Drafted requirements gathering survey |
