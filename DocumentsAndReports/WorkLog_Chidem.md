@@ -9,3 +9,4 @@
 | Oct 2, 2025        | 1        | Brainstorm on app features |
 | Oct 4, 2025        | 1        | Proposal review  |
 |Oct 10, 2025        | 3        | Drafted requirements gathering survey |
+| Oct 15, 2025       | 2	    | Finalize survey |
