@@ -10,3 +10,4 @@
 | Oct 4, 2025        | 1        | Proposal review  |
 |Oct 10, 2025        | 3        | Drafted requirements gathering survey |
 | Oct 15, 2025       | 2	    | Finalize survey |
+| Oct 24, 2025       | 0.5	    | Put survey on Google Forms|
