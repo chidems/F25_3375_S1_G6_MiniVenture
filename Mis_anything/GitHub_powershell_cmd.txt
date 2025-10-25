@@ -1,0 +1,94 @@
+winget install --id GitHub.cli
+
+# Restart the terminal
+
+
+gh auth login
+
+
+
+# PS C:\Users\my> 
+gh auth login
+
+# ? Where do you use GitHub? GitHub.com
+# ? What is your preferred protocol for Git operations on this host? HTTPS
+# ? Authenticate Git with your GitHub credentials? Yes
+# ? How would you like to authenticate GitHub CLI? Login with a web browser
+# 
+# ! First copy your one-time code: D24F-03DA
+# Press Enter to open https://github.com/login/device in your browser...
+# ✓ Authentication complete.
+# - gh config set -h github.com git_protocol https
+# ✓ Configured git protocol
+# ✓ Logged in as mkdir2020
+
+
+
+D:
+
+cd D:\Douglas\04_2025Fall\UXDesignWebMobileApp\Project\GitHub\
+
+gh repo clone chidems/F25_3375_S1_G6_MiniVenture
+# https://github.com/chidems/F25_3375_S1_G6_MiniVenture.git
+
+
+cd F25_3375_S1_G6_MiniVenture
+
+
+# This shows modified files.
+git status
+
+
+# Remove file
+git rm .\Proposal_draft.docx
+
+
+# Stage the changes
+git add .
+
+
+# PS D:\Douglas\04_2025Fall\UXDesignWebMobileApp\Project\GitHub> 
+git commit -m "test"
+
+#Author identity unknown
+#Run
+#  git config --global user.email "you@example.com"
+#  git config --global user.name "Your Name"
+
+git config --global user.name "mkdir2020"
+git config --global user.email "wyllin75@gmail.com"
+
+
+# to exist Vim editor
+# `:q!`
+
+git commit -m "test"
+
+
+https://github.com/chidems/F25_3375_S1_G6_MiniVenture.git
+
+
+# In Git, you have local branches (on your computer) and remote branches (on GitHub)
+# When clone a GitHub repo, Git automatically names the remote URL origin
+# main or master is the branch name pushing to
+# check with `git branch`
+
+# check with GitHub repo `git remote -v`
+
+
+
+# Pushes your local master branch to origin/master on GitHub
+# `git push -u origin main` 
+# sets upstream
+# The upstream branch is the remote branch that your local branch is linked togit push origin main
+# Without an upstream, you’d always need to type: `git push origin main`
+# With upstream, can just type `git push`
+
+
+
+# Before making any edits
+git pull origin main
+git add .\Mis_ProjectGuideline
+git commit -m "upload project guidelines"
+git push origin main
+
