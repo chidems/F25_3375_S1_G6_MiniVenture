@@ -6,10 +6,8 @@ https://docs.google.com/document/d/1fmfowvLO3VgclkI1pelY4xMehoDKp03rN1l5TrpDYJw/
 https://docs.google.com/document/d/12EYP3OiBvOAfolRD650FuV6jSYeFdzmtBHicR6ZazZg/edit?usp=sharing <br />
 <br />
 <br />
-3.Survey (Final) <br />
+3.Survey link <br />
 https://docs.google.com/forms/d/1zW1c75gYCLvPCfzbWIZbrzQNzzsKfV3DirRFQJGCvIk/preview <br />
-Survey link <br />
-https://docs.google.com/forms/d/e/1FAIpQLSfGLGcCplBscoy9mnrPr027xitR26oMgms44mW-47HBFjw7bg/viewform?usp=header<br />
 <br />
 <br />
 2.Survey Draft <br />
