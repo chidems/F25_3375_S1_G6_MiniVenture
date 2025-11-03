@@ -12,7 +12,7 @@
 | Oct 11, 2025       | 2        | Draft for survey       |
 | Oct 15, 2025       | 0.5	    | Finalize the survey |
 | Oct 28, 2025       | 0.5      | Distribute the survey | 
-| Oct 31, 2025       | 2        | Create personas |
+| Oct 31, 2025       | 1        | Create personas |
 | Nov 1, 2025        | 3        | Draft the requirement document |
 | Nov 2, 2025        | 3        | Draft the requirement document |
 
