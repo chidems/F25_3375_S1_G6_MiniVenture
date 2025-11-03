@@ -11,3 +11,8 @@
 |Oct 10, 2025        | 3        | Drafted requirements gathering survey |
 | Oct 15, 2025       | 2	    | Finalize survey |
 | Oct 24, 2025       | 0.5	    | Put survey on Google Forms|
+| Oct 26, 2025       | 0.5	    | Publish survey and distribute to people |
+| Oct 29, 2025       | 2	    | Check survey results and get charts|
+| Oct 30, 2025       | 3     | Work on survey insights, create personas, work on requirements document draft |
+| Nov 1, 2025       | 1	    | Work on requirement document |
+| Nov 2      | 2	    | Work on requirement document |
