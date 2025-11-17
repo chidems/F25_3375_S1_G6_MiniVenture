@@ -15,5 +15,6 @@
 | Oct 31, 2025       | 1        | Create personas |
 | Nov 1, 2025        | 3        | Draft the requirement document |
 | Nov 2, 2025        | 3        | Draft the requirement document |
-
-
+| Nov 6, 2025        | 4        | Figma protocol |
+| Nov 7, 2025        | 3        | Figma protocol |
+| Nov 8, 2025        | 3        | Figma protocol |
