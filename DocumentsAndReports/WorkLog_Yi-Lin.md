@@ -15,11 +15,11 @@
 | Oct 31, 2025       | 1        | Create personas |
 | Nov 1, 2025        | 3        | Draft the requirement document |
 | Nov 2, 2025 (wk10) | 3        | Draft the requirement document |
-| Nov 6, 2025        | 4        | Figma protocol |
-| Nov 7, 2025        | 3        | Figma protocol |
-| Nov 8, 2025        | 3        | Figma protocol |
-| Nov 9, 2025        | 3       | Figma research and protocol
-| Nov 13, 2025        | 3       | Figma research and protocol
-| Nov 14, 2025        | 3       | Figma research and protocol
-| Nov 15, 2025        | 3       | Figma research and protocol
-| Nov 16, 2025 (wk12)        | 3       | Figma protocol, User study survey draft
+| Nov 6, 2025        | 4        | Figma research and protocol |
+| Nov 7, 2025        | 3        | Figma research and protocol |
+| Nov 8, 2025        | 3        | Figma research and protocol |
+| Nov 9, 2025        | 3       | Figma research and protocol |
+| Nov 13, 2025        | 3       | Figma research and protocol |
+| Nov 14, 2025        | 3       | Figma research and protocol |
+| Nov 15, 2025        | 3       | Figma research and protocol |
+| Nov 16, 2025 (wk12)        | 3       | Figma protocol, User study survey draft |
