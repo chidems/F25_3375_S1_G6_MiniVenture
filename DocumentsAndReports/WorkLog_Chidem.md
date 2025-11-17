@@ -15,4 +15,11 @@
 | Oct 29, 2025       | 2	    | Check survey results and get charts|
 | Oct 30, 2025       | 3     | Work on survey insights, create personas, work on requirements document draft |
 | Nov 1, 2025       | 1	    | Work on requirement document |
-| Nov 2      | 2	    | Work on requirement document |
+| Nov 2, 2025      | 2	    | Work on requirement document |
+| Nov 5, 2025     | 3	    | Working on Figma basics |
+| Nov 8, 2025     | 2	    | Learning Figma tools |
+| Nov 9, 2025     | 4	    | Making moodboard, Designing on Figma |
+| Nov 12, 2025    | 3	    | Figma research and design |
+| Nov 14, 2025     | 2	    | Prototyping on Figma |
+| Nov 15, 2025      | 5	    | Prototyping on Figma |
+| Nov 16, 2025      | 3	    | Prototyping on Figma |
