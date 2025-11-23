@@ -1,3 +1,7 @@
+6. Final Draft
+https://docs.google.com/document/d/1LDMhRtBouy50RfcyRD1S73p232Ac2GV6b5bL3iaalFg/edit?usp=sharing <br />
+<br />
+<br />
 5.Survey User Study Draft <br/>
 https://docs.google.com/document/d/1vT-zFsLVQZ1I4ucU4PCrt-UqAr-rOyh_8o4lM_tu8hQ/edit?usp=sharing <br />
 <br />
