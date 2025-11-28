@@ -1,10 +1,10 @@
-7.User Study Survey <br />
+7.Final Draft <br />
+https://docs.google.com/document/d/1LDMhRtBouy50RfcyRD1S73p232Ac2GV6b5bL3iaalFg/edit?usp=sharing <br />
+<br />
+<br />
+6.User Study Survey <br />
 (editor) https://docs.google.com/forms/d/1LAolRh2UWAsyKq5XCt9eVtDVfL8y67Mgg-oBksbjgLY/edit <br />
 (respondant) https://forms.gle/nR363Q62SySF9Y3L7 <br />
-<br />
-<br />
-6.Final Draft <br />
-https://docs.google.com/document/d/1LDMhRtBouy50RfcyRD1S73p232Ac2GV6b5bL3iaalFg/edit?usp=sharing <br />
 <br />
 <br />
 5.Survey User Study Draft <br/>
