@@ -23,3 +23,10 @@
 | Nov 14, 2025     | 2	    | Prototyping on Figma |
 | Nov 15, 2025      | 5	    | Prototyping on Figma |
 | Nov 16, 2025      | 3	    | Prototyping on Figma |
+| Nov 19, 2025      | 1	    | User journey mapping |
+| Nov 20, 2025      | 3	    | Working on prototype |
+| Nov 22, 2025      | 3	    | Final report draft, prototype adjustments |
+| Nov 23, 2025      | 2	    | Final Report, prototype adjustments |
+| Nov 25, 2025      | 3	    |Final Report, prototype adjustments |
+| Nov 26, 2025      | 3	    | Final Report, prototype adjustments |
+| Nov 27, 2025      | 4	    | Final Report, prototype adjustments |
