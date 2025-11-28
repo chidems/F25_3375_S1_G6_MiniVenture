@@ -23,3 +23,8 @@
 | Nov 14, 2025        | 3       | Figma research and protocol |
 | Nov 15, 2025        | 3       | Figma research and protocol |
 | Nov 16, 2025 (wk12)        | 3       | Figma protocol, User study survey draft |
+| Nov 20, 2025        | 2       | Figma protocol. |
+| Nov 25, 2025       | 2       | Final report draft, Figma protocol |
+| Nov 26, 2025       | 3       | Final report draft, Figma protocol |
+| Nov 27, 2025       | 4       | Final report draft, Figma protocol |
+
