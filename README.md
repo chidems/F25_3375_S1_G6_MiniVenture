@@ -7,7 +7,7 @@ Fall 25 Section 1
 App Name: **MiniVenture**
 
 **Description** <br/>
-MiniVenture is a social adventure app that turns everyday outings into shared experiences. Users can adopt a virtual pet that thrives when exploring the real world. Each mini adventure can be solo or group-based, allowing users to host, join, or share adventures with friends or other explorers. The novelty of MiniVenture is that it blends virtual pet care with real-world exploration and community engagement. Through MiniVenture, the app connects physical exploration with digital engagement and social connection. What might be an ordinary walk, bike ride, or hike becomes part of a larger and meaningful experience. Each adventure directly impacts the growth and well-being of the user’s virtual pet, providing a sense of progress and accomplishment.
+> MiniVenture is a social adventure app that turns everyday outings into shared experiences. Users can adopt a virtual pet that thrives when exploring the real world. Each mini adventure can be solo or group-based, allowing users to host, join, or share adventures with friends or other explorers. The novelty of MiniVenture is that it blends virtual pet care with real-world exploration and community engagement. Through MiniVenture, the app connects physical exploration with digital engagement and social connection. What might be an ordinary walk, bike ride, or hike becomes part of a larger and meaningful experience. Each adventure directly impacts the growth and well-being of the user’s virtual pet, providing a sense of progress and accomplishment.
 
 
 
@@ -23,5 +23,7 @@ Yi-Lin Lin
 
 
 #### Installation instruction
-
-
+> 1. Download the Figam installer file depending on where you would like to view the protocol
+https://www.figma.com/downloads/
+> 2. Run the installer
+> 3. https://www.figma.com/proto/eOjmzqC40wBkXVDjqOjldr/F25_3375_S1_G6_MiniVenture?t=4xpHGK6tkfytmcdk-1
